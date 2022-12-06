@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 
 /** 
-* ====== Contributors =====
+* ===== Contributors =====
 
 * alex🐋.eth#3436 -Issue Strategy Advisor
 * 0x42B81011a367d3C7f4e4B570Fadd51209C93F287
